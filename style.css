@@ -1,0 +1,21 @@
+body {
+	font-family: "Brush Script MT", cursive;
+	background-color: pink;
+	text-align: center;
+}
+
+h1 {
+	color: plum;
+}
+
+p {
+	font-size: 18px;
+	color: LightYellow;
+}
+
+p {
+	text-align: left
+img {
+	width: 300px
+	border-radius : 10px
+}
