@@ -1,0 +1,19 @@
+body {
+	font-family: "Baguet Script", cursive;
+	background-color: white;
+	text-align: center;
+}
+
+h1 {
+	color: pink;
+}
+
+p {
+	font-size: 18px;
+	color: blue;
+}
+
+img {
+	width: 300px
+	border-radius : 10px
+}
