@@ -5,17 +5,20 @@ body {
 }
 
 h1 {
+	font-family: "Brush Script MT", cursive;
 	color: plum;
 }
 
 p {
+	font-family: "Helvetica", cursive;
 	font-size: 18px;
 	color: LightYellow;
 }
 
-p {
-	text-align: left
 img {
 	width: 300px
+	border-radius : 10px
+}
+	
 	border-radius : 10px
 }
